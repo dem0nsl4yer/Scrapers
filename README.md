@@ -41,3 +41,10 @@ Feel free to explore the code, make modifications, and customize it according to
 
 Enjoy experimenting with these projects, and feel free to enhance them further based on your personal interests and requirements.
 
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/dem0nsl4yer/Scrapers/).
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
